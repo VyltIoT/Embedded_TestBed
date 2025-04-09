@@ -1,0 +1,60 @@
+Added Component: Designator=C1(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P780X195-8N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Winbond"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "W25Q128JVSIQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16M"; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFN40P700X700X90-57N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RP2040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN56"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_RP2040 Pin=C1-1
+Added Pin To Net: NetName=3V3_RP2040 Pin=U1-8
+Added Net: Name=3V3_RP2040
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=RP2040_QSPI_CSN Pin=R1-2
+Added Pin To Net: NetName=RP2040_QSPI_CSN Pin=U1-1
+Added Pin To Net: NetName=RP2040_QSPI_CSN Pin=U2-56
+Added Net: Name=RP2040_QSPI_CSN
+Added Pin To Net: NetName=RP2040_QSPI_SCLK Pin=U1-6
+Added Pin To Net: NetName=RP2040_QSPI_SCLK Pin=U2-52
+Added Net: Name=RP2040_QSPI_SCLK
+Added Pin To Net: NetName=RP2040_QSPI_SD0 Pin=U1-5
+Added Pin To Net: NetName=RP2040_QSPI_SD0 Pin=U2-53
+Added Net: Name=RP2040_QSPI_SD0
+Added Pin To Net: NetName=RP2040_QSPI_SD1 Pin=U1-2
+Added Pin To Net: NetName=RP2040_QSPI_SD1 Pin=U2-55
+Added Net: Name=RP2040_QSPI_SD1
+Added Pin To Net: NetName=RP2040_QSPI_SD2 Pin=U1-3
+Added Pin To Net: NetName=RP2040_QSPI_SD2 Pin=U2-54
+Added Net: Name=RP2040_QSPI_SD2
+Added Pin To Net: NetName=RP2040_QSPI_SD3 Pin=U1-7
+Added Pin To Net: NetName=RP2040_QSPI_SD3 Pin=U2-51
+Added Net: Name=RP2040_QSPI_SD3
+Added Class: Name=MCU1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

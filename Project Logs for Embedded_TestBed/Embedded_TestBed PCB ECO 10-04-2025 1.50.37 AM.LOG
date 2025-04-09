@@ -1,0 +1,98 @@
+Added Component: Designator=C2(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_RP2040 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=3V3_RP2040 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=3V3_RP2040 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=3V3_RP2040 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-1
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-22
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-33
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-42
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-43
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-44
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-48
+Added Pin To Net: NetName=3V3_RP2040 Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-57
+Added Pin To Net: NetName=1V8_RP2040 Pin=C6-1
+Added Pin To Net: NetName=1V8_RP2040 Pin=U2-23
+Added Pin To Net: NetName=1V8_RP2040 Pin=U2-45
+Added Pin To Net: NetName=1V8_RP2040 Pin=U2-50
+Added Net: Name=1V8_RP2040
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-46
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-47
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SW2-1
+Added Pin To Net: NetName=NetR4_1 Pin=SW2-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=RP2040_CTRL_RUN Pin=R4-2
+Added Pin To Net: NetName=RP2040_CTRL_RUN Pin=U2-26
+Added Net: Name=RP2040_CTRL_RUN
+Added Pin To Net: NetName=RP2040_USB_DM Pin=R2-2
+Added Net: Name=RP2040_USB_DM
+Added Pin To Net: NetName=RP2040_USB_DP Pin=R3-2
+Added Net: Name=RP2040_USB_DP
+Added Member To Class: ClassName=MCU1 Member=Component C2 MLCC_0805
+Added Member To Class: ClassName=MCU1 Member=Component C3 MLCC_0805
+Added Member To Class: ClassName=MCU1 Member=Component C4 MLCC_0805
+Added Member To Class: ClassName=MCU1 Member=Component C5 MLCC_0805
+Added Member To Class: ClassName=MCU1 Member=Component C6 MLCC_0805
+Added Member To Class: ClassName=MCU1 Member=Component R2 ERP_101-1
+Added Member To Class: ClassName=MCU1 Member=Component R3 ERP_101-1
+Added Member To Class: ClassName=MCU1 Member=Component R4 ERP_101-1
+Added Member To Class: ClassName=MCU1 Member=Component SW2 Generic6X6
+Added Rule: Name=Schematic Supply Nets_2
