@@ -1,0 +1,40 @@
+Added Component: Designator=C7(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=X1(HC-49US)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HC-49US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R5-2
+Added Pin To Net: NetName=NetC8_1 Pin=X1-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=RP2040_XIN Pin=C7-1
+Added Pin To Net: NetName=RP2040_XIN Pin=U2-20
+Added Pin To Net: NetName=RP2040_XIN Pin=X1-1
+Added Net: Name=RP2040_XIN
+Added Pin To Net: NetName=RP2040_XOUT Pin=R5-1
+Added Pin To Net: NetName=RP2040_XOUT Pin=U2-21
+Added Net: Name=RP2040_XOUT
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DP is 1 instead of 2
+Added Member To Class: ClassName=MCU1 Member=Component C7 MLCC_0805
+Added Member To Class: ClassName=MCU1 Member=Component C8 MLCC_0805
+Added Member To Class: ClassName=MCU1 Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=MCU1 Member=Component X1 HC-49US
