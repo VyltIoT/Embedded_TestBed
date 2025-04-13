@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RP2040_IO25 Pin=J1-4
+Added Pin To Net: NetName=RP2040_IO25 Pin=U2-37
+Added Net: Name=RP2040_IO25
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DP is 1 instead of 2

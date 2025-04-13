@@ -1,0 +1,105 @@
+Added Component: Designator=J?(40PX2R_Male_THT)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_RP2040 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=3V3_RP2040 Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-13
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-23
+Added Pin To Net: NetName=GND Pin=J?-27
+Added Pin To Net: NetName=GND Pin=J?-30
+Added Pin To Net: NetName=GND Pin=J?-35
+Added Pin To Net: NetName=GND Pin=J?-37
+Added Pin To Net: NetName=5V0 Pin=J?-21
+Added Pin To Net: NetName=5V0 Pin=J?-22
+Added Net: Name=5V0
+Added Pin To Net: NetName=RP2040_IO0 Pin=J?-2
+Added Pin To Net: NetName=RP2040_IO0 Pin=U2-2
+Added Net: Name=RP2040_IO0
+Added Pin To Net: NetName=RP2040_IO1 Pin=J?-3
+Added Pin To Net: NetName=RP2040_IO1 Pin=U2-3
+Added Net: Name=RP2040_IO1
+Added Pin To Net: NetName=RP2040_IO2 Pin=J?-4
+Added Pin To Net: NetName=RP2040_IO2 Pin=U2-4
+Added Net: Name=RP2040_IO2
+Added Pin To Net: NetName=RP2040_IO3 Pin=J?-6
+Added Pin To Net: NetName=RP2040_IO3 Pin=U2-5
+Added Net: Name=RP2040_IO3
+Added Pin To Net: NetName=RP2040_IO4 Pin=J?-7
+Added Pin To Net: NetName=RP2040_IO4 Pin=U2-6
+Added Net: Name=RP2040_IO4
+Added Pin To Net: NetName=RP2040_IO5 Pin=J?-8
+Added Pin To Net: NetName=RP2040_IO5 Pin=U2-7
+Added Net: Name=RP2040_IO5
+Added Pin To Net: NetName=RP2040_IO6 Pin=J?-12
+Added Pin To Net: NetName=RP2040_IO6 Pin=U2-8
+Added Net: Name=RP2040_IO6
+Added Pin To Net: NetName=RP2040_IO7 Pin=J?-10
+Added Pin To Net: NetName=RP2040_IO7 Pin=U2-9
+Added Net: Name=RP2040_IO7
+Added Pin To Net: NetName=RP2040_IO8 Pin=J?-11
+Added Pin To Net: NetName=RP2040_IO8 Pin=U2-11
+Added Net: Name=RP2040_IO8
+Added Pin To Net: NetName=RP2040_IO9 Pin=J?-14
+Added Pin To Net: NetName=RP2040_IO9 Pin=U2-12
+Added Net: Name=RP2040_IO9
+Added Pin To Net: NetName=RP2040_IO10 Pin=J?-15
+Added Pin To Net: NetName=RP2040_IO10 Pin=U2-13
+Added Net: Name=RP2040_IO10
+Added Pin To Net: NetName=RP2040_IO11 Pin=J?-16
+Added Pin To Net: NetName=RP2040_IO11 Pin=U2-14
+Added Net: Name=RP2040_IO11
+Added Pin To Net: NetName=RP2040_IO12 Pin=J?-17
+Added Pin To Net: NetName=RP2040_IO12 Pin=U2-15
+Added Net: Name=RP2040_IO12
+Added Pin To Net: NetName=RP2040_IO13 Pin=J?-18
+Added Pin To Net: NetName=RP2040_IO13 Pin=U2-16
+Added Net: Name=RP2040_IO13
+Added Pin To Net: NetName=RP2040_IO14 Pin=J?-19
+Added Pin To Net: NetName=RP2040_IO14 Pin=U2-17
+Added Net: Name=RP2040_IO14
+Added Pin To Net: NetName=RP2040_IO15 Pin=J?-24
+Added Pin To Net: NetName=RP2040_IO15 Pin=U2-18
+Added Net: Name=RP2040_IO15
+Added Pin To Net: NetName=RP2040_IO16 Pin=J?-25
+Added Pin To Net: NetName=RP2040_IO16 Pin=U2-27
+Added Net: Name=RP2040_IO16
+Added Pin To Net: NetName=RP2040_IO17 Pin=J?-26
+Added Pin To Net: NetName=RP2040_IO17 Pin=U2-28
+Added Net: Name=RP2040_IO17
+Added Pin To Net: NetName=RP2040_IO18 Pin=J?-28
+Added Pin To Net: NetName=RP2040_IO18 Pin=U2-29
+Added Net: Name=RP2040_IO18
+Added Pin To Net: NetName=RP2040_IO19 Pin=J?-29
+Added Pin To Net: NetName=RP2040_IO19 Pin=U2-30
+Added Net: Name=RP2040_IO19
+Added Pin To Net: NetName=RP2040_IO20 Pin=J?-31
+Added Pin To Net: NetName=RP2040_IO20 Pin=U2-31
+Added Net: Name=RP2040_IO20
+Added Pin To Net: NetName=RP2040_IO21 Pin=J?-32
+Added Pin To Net: NetName=RP2040_IO21 Pin=U2-32
+Added Net: Name=RP2040_IO21
+Added Pin To Net: NetName=RP2040_IO22 Pin=J?-33
+Added Pin To Net: NetName=RP2040_IO22 Pin=U2-34
+Added Net: Name=RP2040_IO22
+Added Pin To Net: NetName=RP2040_IO23 Pin=J?-34
+Added Pin To Net: NetName=RP2040_IO23 Pin=U2-35
+Added Net: Name=RP2040_IO23
+Added Pin To Net: NetName=RP2040_IO24 Pin=J?-36
+Added Pin To Net: NetName=RP2040_IO24 Pin=U2-36
+Added Net: Name=RP2040_IO24
+Added Pin To Net: NetName=RP2040_IO26 Pin=J?-38
+Added Pin To Net: NetName=RP2040_IO26 Pin=U2-38
+Added Net: Name=RP2040_IO26
+Added Pin To Net: NetName=RP2040_IO27 Pin=J?-39
+Added Pin To Net: NetName=RP2040_IO27 Pin=U2-39
+Added Net: Name=RP2040_IO27
+Added Pin To Net: NetName=RP2040_IO28 Pin=J?-40
+Added Pin To Net: NetName=RP2040_IO28 Pin=U2-40
+Added Net: Name=RP2040_IO28
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DP is 1 instead of 2
+Added Member To Class: ClassName=MCU1 Member=Component J? 40PX2R_M_1
+Added Rule: Name=Schematic Supply Nets_3
