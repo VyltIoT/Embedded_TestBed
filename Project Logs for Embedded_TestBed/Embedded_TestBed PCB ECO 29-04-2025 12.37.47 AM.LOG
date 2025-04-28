@@ -1,0 +1,232 @@
+Removed Pin From Net: NetName=3V3_RP2040 Pin=C1-1
+Removed Pin From Net: NetName=3V3_RP2040 Pin=C2-1
+Removed Pin From Net: NetName=3V3_RP2040 Pin=C3-1
+Removed Pin From Net: NetName=3V3_RP2040 Pin=C4-1
+Removed Pin From Net: NetName=3V3_RP2040 Pin=C5-1
+Removed Pin From Net: NetName=3V3_RP2040 Pin=J1-1
+Removed Pin From Net: NetName=3V3_RP2040 Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-20
+Removed Pin From Net: NetName=3V3_RP2040 Pin=U1-8
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Added Component: Designator=C14(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=J3(40PX2R_Male_THT)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_ESP32 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=3V3_ESP32 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=3V3_ESP32 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=3V3_ESP32 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=3V3_ESP32 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=3V3_ESP32 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=3V3_ESP32 Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-20
+Added Pin To Net: NetName=5V0 Pin=J3-21
+Added Pin To Net: NetName=5V0 Pin=J3-22
+Added Pin To Net: NetName=GND Pin=J3-23
+Added Pin To Net: NetName=GND Pin=J3-27
+Added Pin To Net: NetName=GND Pin=J3-30
+Added Pin To Net: NetName=GND Pin=J3-35
+Added Pin To Net: NetName=GND Pin=J3-37
+Added Pin To Net: NetName=GND Pin=SW5-3
+Added Pin To Net: NetName=GND Pin=SW5-4
+Added Pin To Net: NetName=GND Pin=SW6-3
+Added Pin To Net: NetName=GND Pin=SW6-4
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=RP2040_IO0 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=RP2040_IO1 New Net Name=NetJ1_3
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J1-9
+Added Pin To Net: NetName=3V3 Pin=U1-8
+Added Net: Name=3V3
+Add Net: Net with name "ESP32_BOOT" already exists
+Add Net: Net with name "ESP32_IO1" already exists
+Add Net: Net with name "ESP32_IO2" already exists
+Add Net: Net with name "ESP32_IO4" already exists
+Add Net: Net with name "ESP32_IO5" already exists
+Add Net: Net with name "ESP32_IO6" already exists
+Add Net: Net with name "ESP32_IO7" already exists
+Add Net: Net with name "ESP32_IO10" already exists
+Add Net: Net with name "ESP32_IO14" already exists
+Add Net: Net with name "ESP32_IO15" already exists
+Add Net: Net with name "ESP32_IO16" already exists
+Add Net: Net with name "ESP32_IO17" already exists
+Add Net: Net with name "ESP32_IO18" already exists
+Add Net: Net with name "ESP32_IO21" already exists
+Add Net: Net with name "ESP32_IO38" already exists
+Add Net: Net with name "ESP32_IO39" already exists
+Add Net: Net with name "ESP32_IO40" already exists
+Add Net: Net with name "ESP32_IO41" already exists
+Add Net: Net with name "ESP32_IO42" already exists
+Add Net: Net with name "ESP32_RESET" already exists
+Add Net: Net with name "ESP32_RX" already exists
+Add Net: Net with name "ESP32_SCL" already exists
+Add Net: Net with name "ESP32_SDA" already exists
+Add Net: Net with name "ESP32_SPI_CLK" already exists
+Add Net: Net with name "ESP32_SPI_MISO" already exists
+Add Net: Net with name "ESP32_SPI_MOSI" already exists
+Add Net: Net with name "ESP32_TX" already exists
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_4 Pin=U2-7
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=U2-8
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=U2-9
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=U2-5
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_11 Pin=U2-6
+Added Net: Name=NetJ1_11
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_12 Pin=U2-4
+Added Net: Name=NetJ1_12
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-14
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetJ1_15 Pin=J1-15
+Added Pin To Net: NetName=NetJ1_15 Pin=U2-12
+Added Net: Name=NetJ1_15
+Added Pin To Net: NetName=NetJ1_16 Pin=J1-16
+Added Pin To Net: NetName=NetJ1_16 Pin=U2-13
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetJ1_17 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_17 Pin=U2-14
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ1_18 Pin=J1-18
+Added Pin To Net: NetName=NetJ1_18 Pin=U2-11
+Added Net: Name=NetJ1_18
+Added Pin To Net: NetName=NetJ1_19 Pin=J1-19
+Added Pin To Net: NetName=NetJ1_19 Pin=U2-15
+Added Net: Name=NetJ1_19
+Added Pin To Net: NetName=NetJ1_20 Pin=J1-20
+Added Net: Name=NetJ1_20
+Added Pin To Net: NetName=NetJ1_24 Pin=J1-24
+Added Pin To Net: NetName=NetJ1_24 Pin=U2-27
+Added Net: Name=NetJ1_24
+Added Pin To Net: NetName=NetJ1_25 Pin=J1-25
+Added Pin To Net: NetName=NetJ1_25 Pin=U2-28
+Added Net: Name=NetJ1_25
+Added Pin To Net: NetName=NetJ1_26 Pin=J1-26
+Added Pin To Net: NetName=NetJ1_26 Pin=U2-40
+Added Net: Name=NetJ1_26
+Added Pin To Net: NetName=NetJ1_28 Pin=J1-28
+Added Pin To Net: NetName=NetJ1_28 Pin=U2-39
+Added Net: Name=NetJ1_28
+Added Pin To Net: NetName=NetJ1_29 Pin=J1-29
+Added Pin To Net: NetName=NetJ1_29 Pin=U2-38
+Added Net: Name=NetJ1_29
+Added Pin To Net: NetName=NetJ1_31 Pin=J1-31
+Added Pin To Net: NetName=NetJ1_31 Pin=U2-35
+Added Net: Name=NetJ1_31
+Added Pin To Net: NetName=NetJ1_32 Pin=J1-32
+Added Pin To Net: NetName=NetJ1_32 Pin=U2-34
+Added Net: Name=NetJ1_32
+Added Pin To Net: NetName=NetJ1_33 Pin=J1-33
+Added Pin To Net: NetName=NetJ1_33 Pin=U2-32
+Added Net: Name=NetJ1_33
+Added Pin To Net: NetName=NetJ1_34 Pin=J1-34
+Added Pin To Net: NetName=NetJ1_34 Pin=U2-31
+Added Net: Name=NetJ1_34
+Added Pin To Net: NetName=NetJ1_36 Pin=J1-36
+Added Pin To Net: NetName=NetJ1_36 Pin=U2-30
+Added Net: Name=NetJ1_36
+Added Pin To Net: NetName=NetJ1_38 Pin=J1-38
+Added Pin To Net: NetName=NetJ1_38 Pin=U2-29
+Added Net: Name=NetJ1_38
+Added Pin To Net: NetName=NetJ1_39 Pin=J1-39
+Added Pin To Net: NetName=NetJ1_39 Pin=U2-18
+Added Net: Name=NetJ1_39
+Added Pin To Net: NetName=NetJ1_40 Pin=J1-40
+Added Pin To Net: NetName=NetJ1_40 Pin=U2-17
+Added Net: Name=NetJ1_40
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=SW5-1
+Added Pin To Net: NetName=NetR11_1 Pin=SW5-2
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=SW6-1
+Added Pin To Net: NetName=NetR12_1 Pin=SW6-2
+Added Net: Name=NetR12_1
+Added Class: Name=MCU3
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RP2040_USB_DP is 1 instead of 2
+Added Member To Class: ClassName=MCU1 Member=Component R2 ERP_101-1
+Added Member To Class: ClassName=MCU1 Member=Component R4 ERP_101-1
+Added Member To Class: ClassName=MCU1 Member=Component SW1 Generic6X6
+Added Rule: Name=Schematic Supply Nets_5
