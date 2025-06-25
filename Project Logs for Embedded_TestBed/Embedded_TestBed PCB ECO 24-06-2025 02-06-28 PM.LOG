@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=X1-2
+Change Component Footprint: Designator=X1 Old Footprint=HC-49US New Footprint=ABM8
+Change Component Comment : Designator=X1 Old Comment=HC-49US New Comment=ABM8
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC2012X13L"; UniqueID = "\AUFYLYAL" ("\AUFYLYAL")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC2012X13L"; UniqueID = "\STCYSHKZ" ("\STCYSHKZ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "HC-49US"; UniqueID = "\RCOQVLSU" ("\RCOQVLSU")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ABM8-272-T3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=NetC2_1 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Add Net: Net with name "ESP32_BOOT" already exists
+Add Net: Net with name "ESP32_RESET" already exists
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DP is 1 instead of 2
