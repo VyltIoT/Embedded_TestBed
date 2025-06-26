@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=MCU3 Member=IC1
+Added Component: Designator=U3(TSQFP50P1200X1200X160-64L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "STM32G474RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-64(10x10)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "ESP32_BOOT" already exists
+Add Net: Net with name "ESP32_RESET" already exists
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DP is 1 instead of 2
+Added Member To Class: ClassName=MCU3 Member=Component U3 STM32G474RE
