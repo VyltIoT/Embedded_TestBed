@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=STM32_PA0 Pin=U3-61
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC2012X13L"; UniqueID = "\JDBICDZF" ("\JDBICDZF")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC2012X13L"; UniqueID = "\JGARSNEQ" ("\JGARSNEQ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAPC2012X13L"; UniqueID = "\BUWWAXEL" ("\BUWWAXEL")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC2012X13L"; UniqueID = "\KFWVXEPN" ("\KFWVXEPN")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=J4(40PX2R_Male_THT)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Pin To Net: NetName=3V3 Pin=C17-1
+Added Pin To Net: NetName=3V3 Pin=C18-1
+Added Pin To Net: NetName=3V3 Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=3V3 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=3V3 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=3V3 Pin=J3-1
+Added Pin To Net: NetName=STM32_PC13 Pin=J3-2
+Added Pin To Net: NetName=STM32_PC0 Pin=J3-3
+Added Pin To Net: NetName=STM32_PC1 Pin=J3-4
+Added Pin To Net: NetName=STM32_PC2 Pin=J3-6
+Added Pin To Net: NetName=STM32_PC3 Pin=J3-7
+Added Pin To Net: NetName=STM32_PA0 Pin=J3-8
+Added Pin To Net: NetName=3V3 Pin=J3-9
+Added Pin To Net: NetName=STM32_PA1 Pin=J3-10
+Added Pin To Net: NetName=STM32_PA2 Pin=J3-11
+Added Pin To Net: NetName=STM32_PA3 Pin=J3-12
+Added Pin To Net: NetName=STM32_PA4 Pin=J3-14
+Added Pin To Net: NetName=STM32_PA5 Pin=J3-15
+Added Pin To Net: NetName=STM32_PA6 Pin=J3-16
+Added Pin To Net: NetName=STM32_PA7 Pin=J3-17
+Added Pin To Net: NetName=STM32_PC4 Pin=J3-18
+Added Pin To Net: NetName=STM32_PC5 Pin=J3-19
+Added Pin To Net: NetName=STM32_PC9 Pin=J3-24
+Added Pin To Net: NetName=STM32_PC8 Pin=J3-25
+Added Pin To Net: NetName=STM32_PC7 Pin=J3-26
+Added Pin To Net: NetName=STM32_PC6 Pin=J3-28
+Added Pin To Net: NetName=STM32_PB15 Pin=J3-29
+Added Pin To Net: NetName=STM32_PB14 Pin=J3-31
+Added Pin To Net: NetName=STM32_PB13 Pin=J3-32
+Added Pin To Net: NetName=STM32_PB12 Pin=J3-33
+Added Pin To Net: NetName=STM32_PB11 Pin=J3-34
+Added Pin To Net: NetName=STM32_PB10 Pin=J3-36
+Added Pin To Net: NetName=STM32_PB0 Pin=J3-38
+Added Pin To Net: NetName=STM32_PB1 Pin=J3-39
+Added Pin To Net: NetName=STM32_PB2 Pin=J3-40
+Added Pin To Net: NetName=3V3 Pin=J4-1
+Added Pin To Net: NetName=STM32_PA10 Pin=J4-2
+Added Pin To Net: NetName=STM32_PA9 Pin=J4-3
+Added Pin To Net: NetName=STM32_PA8 Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=STM32_PA15 Pin=J4-6
+Added Pin To Net: NetName=STM32_PA12 Pin=J4-7
+Added Pin To Net: NetName=STM32_PA11 Pin=J4-8
+Added Pin To Net: NetName=3V3 Pin=J4-9
+Added Pin To Net: NetName=STM32_PC12 Pin=J4-10
+Added Pin To Net: NetName=STM32_PC11 Pin=J4-11
+Added Pin To Net: NetName=STM32_PC10 Pin=J4-12
+Added Pin To Net: NetName=GND Pin=J4-13
+Added Pin To Net: NetName=STM32_PB9 Pin=J4-14
+Added Pin To Net: NetName=STM32_PB7 Pin=J4-15
+Added Pin To Net: NetName=STM32_PB6 Pin=J4-16
+Added Pin To Net: NetName=STM32_PB5 Pin=J4-17
+Added Pin To Net: NetName=STM32_PB4 Pin=J4-18
+Added Pin To Net: NetName=STM32_PD2 Pin=J4-19
+Added Pin To Net: NetName=GND Pin=J4-20
+Added Pin To Net: NetName=5V0 Pin=J4-21
+Added Pin To Net: NetName=5V0 Pin=J4-22
+Added Pin To Net: NetName=GND Pin=J4-23
+Added Pin To Net: NetName=STM32_SWD Pin=J4-24
+Added Pin To Net: NetName=STM32_SWC Pin=J4-25
+Added Pin To Net: NetName=STM32_SWO Pin=J4-26
+Added Pin To Net: NetName=GND Pin=J4-27
+Added Pin To Net: NetName=GND Pin=J4-30
+Added Pin To Net: NetName=GND Pin=J4-35
+Added Pin To Net: NetName=GND Pin=J4-37
+Added Pin To Net: NetName=STM32_RESET Pin=R11-2
+Added Pin To Net: NetName=STM32_BOOT Pin=R12-2
+Added Pin To Net: NetName=STM32_BOOT Pin=U3-61
+Added Net: Name=STM32_BOOT
+Added Pin To Net: NetName=STM32_PC14 Pin=J4-28
+Added Pin To Net: NetName=STM32_PC14 Pin=U3-3
+Added Net: Name=STM32_PC14
+Added Pin To Net: NetName=STM32_PC15 Pin=J4-29
+Added Pin To Net: NetName=STM32_PC15 Pin=U3-4
+Added Net: Name=STM32_PC15
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DP is 1 instead of 2
+Added Member To Class: ClassName=MCU3 Member=Component C30 MLCC_0805
+Added Member To Class: ClassName=MCU3 Member=Component C31 MLCC_0805
+Added Member To Class: ClassName=MCU3 Member=Component C32 MLCC_0805
+Added Member To Class: ClassName=MCU3 Member=Component J4 40PX2R_M_1

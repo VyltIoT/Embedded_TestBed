@@ -1,0 +1,144 @@
+Added Component: Designator=C28(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Added Component: Designator=X2(ABM8)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ABM8-272-T3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=3V3 Pin=U3-16
+Added Pin To Net: NetName=GND Pin=U3-27
+Added Pin To Net: NetName=3V3 Pin=U3-28
+Added Pin To Net: NetName=3V3 Pin=U3-29
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=3V3 Pin=U3-32
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Pin To Net: NetName=3V3 Pin=U3-48
+Added Pin To Net: NetName=GND Pin=U3-63
+Added Pin To Net: NetName=3V3 Pin=U3-64
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-4
+Add Net: Net with name "ESP32_BOOT" already exists
+Add Net: Net with name "ESP32_RESET" already exists
+Added Pin To Net: NetName=STM32_PA0 Pin=U3-12
+Added Pin To Net: NetName=STM32_PA0 Pin=U3-61
+Added Net: Name=STM32_PA0
+Added Pin To Net: NetName=STM32_PA1 Pin=U3-13
+Added Net: Name=STM32_PA1
+Added Pin To Net: NetName=STM32_PA2 Pin=U3-14
+Added Net: Name=STM32_PA2
+Added Pin To Net: NetName=STM32_PA3 Pin=U3-17
+Added Net: Name=STM32_PA3
+Added Pin To Net: NetName=STM32_PA4 Pin=U3-18
+Added Net: Name=STM32_PA4
+Added Pin To Net: NetName=STM32_PA5 Pin=U3-19
+Added Net: Name=STM32_PA5
+Added Pin To Net: NetName=STM32_PA6 Pin=U3-20
+Added Net: Name=STM32_PA6
+Added Pin To Net: NetName=STM32_PA7 Pin=U3-21
+Added Net: Name=STM32_PA7
+Added Pin To Net: NetName=STM32_PA8 Pin=U3-42
+Added Net: Name=STM32_PA8
+Added Pin To Net: NetName=STM32_PA9 Pin=U3-43
+Added Net: Name=STM32_PA9
+Added Pin To Net: NetName=STM32_PA10 Pin=U3-44
+Added Net: Name=STM32_PA10
+Added Pin To Net: NetName=STM32_PA11 Pin=U3-45
+Added Net: Name=STM32_PA11
+Added Pin To Net: NetName=STM32_PA12 Pin=U3-46
+Added Net: Name=STM32_PA12
+Added Pin To Net: NetName=STM32_PA15 Pin=U3-51
+Added Net: Name=STM32_PA15
+Added Pin To Net: NetName=STM32_PB0 Pin=U3-24
+Added Net: Name=STM32_PB0
+Added Pin To Net: NetName=STM32_PB1 Pin=U3-25
+Added Net: Name=STM32_PB1
+Added Pin To Net: NetName=STM32_PB2 Pin=U3-26
+Added Net: Name=STM32_PB2
+Added Pin To Net: NetName=STM32_PB4 Pin=U3-57
+Added Net: Name=STM32_PB4
+Added Pin To Net: NetName=STM32_PB5 Pin=U3-58
+Added Net: Name=STM32_PB5
+Added Pin To Net: NetName=STM32_PB6 Pin=U3-59
+Added Net: Name=STM32_PB6
+Added Pin To Net: NetName=STM32_PB7 Pin=U3-60
+Added Net: Name=STM32_PB7
+Added Pin To Net: NetName=STM32_PB9 Pin=U3-62
+Added Net: Name=STM32_PB9
+Added Pin To Net: NetName=STM32_PB10 Pin=U3-30
+Added Net: Name=STM32_PB10
+Added Pin To Net: NetName=STM32_PB11 Pin=U3-33
+Added Net: Name=STM32_PB11
+Added Pin To Net: NetName=STM32_PB12 Pin=U3-34
+Added Net: Name=STM32_PB12
+Added Pin To Net: NetName=STM32_PB13 Pin=U3-35
+Added Net: Name=STM32_PB13
+Added Pin To Net: NetName=STM32_PB14 Pin=U3-36
+Added Net: Name=STM32_PB14
+Added Pin To Net: NetName=STM32_PB15 Pin=U3-37
+Added Net: Name=STM32_PB15
+Added Pin To Net: NetName=STM32_PC0 Pin=U3-8
+Added Net: Name=STM32_PC0
+Added Pin To Net: NetName=STM32_PC1 Pin=U3-9
+Added Net: Name=STM32_PC1
+Added Pin To Net: NetName=STM32_PC2 Pin=U3-10
+Added Net: Name=STM32_PC2
+Added Pin To Net: NetName=STM32_PC3 Pin=U3-11
+Added Net: Name=STM32_PC3
+Added Pin To Net: NetName=STM32_PC4 Pin=U3-22
+Added Net: Name=STM32_PC4
+Added Pin To Net: NetName=STM32_PC5 Pin=U3-23
+Added Net: Name=STM32_PC5
+Added Pin To Net: NetName=STM32_PC6 Pin=U3-38
+Added Net: Name=STM32_PC6
+Added Pin To Net: NetName=STM32_PC7 Pin=U3-39
+Added Net: Name=STM32_PC7
+Added Pin To Net: NetName=STM32_PC8 Pin=U3-40
+Added Net: Name=STM32_PC8
+Added Pin To Net: NetName=STM32_PC9 Pin=U3-41
+Added Net: Name=STM32_PC9
+Added Pin To Net: NetName=STM32_PC10 Pin=U3-52
+Added Net: Name=STM32_PC10
+Added Pin To Net: NetName=STM32_PC11 Pin=U3-53
+Added Net: Name=STM32_PC11
+Added Pin To Net: NetName=STM32_PC12 Pin=U3-54
+Added Net: Name=STM32_PC12
+Added Pin To Net: NetName=STM32_PC13 Pin=U3-2
+Added Net: Name=STM32_PC13
+Added Pin To Net: NetName=STM32_PD2 Pin=U3-55
+Added Net: Name=STM32_PD2
+Added Pin To Net: NetName=STM32_RESET Pin=U3-7
+Added Net: Name=STM32_RESET
+Added Pin To Net: NetName=STM32_SWC Pin=U3-50
+Added Net: Name=STM32_SWC
+Added Pin To Net: NetName=STM32_SWD Pin=U3-49
+Added Net: Name=STM32_SWD
+Added Pin To Net: NetName=STM32_SWO Pin=U3-56
+Added Net: Name=STM32_SWO
+Added Pin To Net: NetName=STM32_XTAL32_IN Pin=U3-3
+Added Net: Name=STM32_XTAL32_IN
+Added Pin To Net: NetName=STM32_XTAL32_OUT Pin=U3-4
+Added Net: Name=STM32_XTAL32_OUT
+Added Pin To Net: NetName=STM32_XTAL_IN Pin=C29-1
+Added Pin To Net: NetName=STM32_XTAL_IN Pin=U3-5
+Added Pin To Net: NetName=STM32_XTAL_IN Pin=X2-3
+Added Net: Name=STM32_XTAL_IN
+Added Pin To Net: NetName=STM32_XTAL_OUT Pin=C28-1
+Added Pin To Net: NetName=STM32_XTAL_OUT Pin=U3-6
+Added Pin To Net: NetName=STM32_XTAL_OUT Pin=X2-1
+Added Net: Name=STM32_XTAL_OUT
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ESP32_USB_DP is 1 instead of 2
+Added Member To Class: ClassName=MCU3 Member=Component C28 MLCC_0805
+Added Member To Class: ClassName=MCU3 Member=Component C29 MLCC_0805
+Added Member To Class: ClassName=MCU3 Member=Component X2 ABM8
