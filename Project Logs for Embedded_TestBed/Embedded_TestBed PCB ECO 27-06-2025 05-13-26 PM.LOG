@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetJ1_28 Pin=J1-29
+Removed Pin From Net: NetName=NetJ1_28 Pin=U2-27
+Removed Pin From Net: NetName=NetJ1_26 Pin=U2-28
+Removed Pin From Net: NetName=NetJ1_25 Pin=U2-36
+Removed Pin From Net: NetName=NetJ1_24 Pin=U2-37
+Added Pin To Net: NetName=NetJ1_28 Pin=U2-28
+Added Pin To Net: NetName=NetJ1_26 Pin=U2-36
+Added Pin To Net: NetName=NetJ1_25 Pin=U2-37
+Added Pin To Net: NetName=NetJ1_24 Pin=U2-80
+Added Pin To Net: NetName=NetJ1_29 Pin=J1-29
+Added Pin To Net: NetName=NetJ1_29 Pin=U2-27
+Added Net: Name=NetJ1_29
+Add Differential Pair: Number of nets in differential pair NetM1_13 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetM1_14 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR16_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR17_2 is 1 instead of 2
