@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=C45-1
+Removed Pin From Net: NetName=GND Pin=C45-2
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=R30-2
+Removed Pin From Net: NetName=NetD1_1 Pin=R32-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R33-1
+Removed Pin From Net: NetName=MCU_MODEM_RESETN_3V3 Pin=R33-2
+Removed Pin From Net: NetName=NetD2_1 Pin=R34-1
+Removed Pin From Net: NetName=MODEM_LED_NETMODE Pin=R34-2
+Removed Pin From Net: NetName=NetQ3_1 Pin=R35-1
+Removed Pin From Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=R35-2
+Removed Member From Class: ClassName=MODEM_PT1 Member=C53
+Removed Member From Class: ClassName=MODEM_PT1 Member=C54
+Removed Member From Class: ClassName=MODEM_PT1 Member=C55
+Removed Member From Class: ClassName=MODEM_PT1 Member=C56
+Removed Member From Class: ClassName=MODEM_PT2 Member=D1
+Removed Member From Class: ClassName=MODEM_PT2 Member=D2
+Removed Member From Class: ClassName=MODEM_PT2 Member=Q2
+Removed Member From Class: ClassName=MODEM_PT2 Member=Q3
+Removed Member From Class: ClassName=MCU3 Member=R20
+Removed Member From Class: ClassName=CAN Member=R22
+Removed Member From Class: ClassName=MODEM_PT2 Member=R35
+Removed Member From Class: ClassName=MODEM_PT1 Member=R39
+Removed Member From Class: ClassName=MODEM_PT1 Member=TP1
+Removed Member From Class: ClassName=MODEM_PT2 Member=U6
+Removed Member From Class: ClassName=ANT_50R Member=NetC41_1
+Removed Member From Class: ClassName=ANT_50R Member=NetC41_2
+Change Component Designator: OldDesignator=C38 NewDesignator=C42
+Change Component Designator: OldDesignator=C39 NewDesignator=C43
+Change Component Designator: OldDesignator=C40 NewDesignator=C38
+Change Component Designator: OldDesignator=C41 NewDesignator=C39
+Change Component Designator: OldDesignator=C42 NewDesignator=C40
+Change Component Designator: OldDesignator=C43 NewDesignator=C41
+Change Component Designator: OldDesignator=C47 NewDesignator=C45
+Change Component Designator: OldDesignator=C48 NewDesignator=C46
+Change Component Designator: OldDesignator=C49 NewDesignator=C47
+Change Component Designator: OldDesignator=J8 NewDesignator=J11
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Component Designator: OldDesignator=J10 NewDesignator=J9
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R30
+Change Component Designator: OldDesignator=R26 NewDesignator=R32
+Change Component Designator: OldDesignator=R27 NewDesignator=R33
+Change Component Designator: OldDesignator=R28 NewDesignator=R34
+Change Component Designator: OldDesignator=R29 NewDesignator=R35
+Added Component: Designator=C48(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=5V0 Pin=J8-1
+Added Pin To Net: NetName=3V3 Pin=J8-3
+Added Pin To Net: NetName=MODEM_LED_NETMODE Pin=M2-5
+Added Pin To Net: NetName=MODEM_CTRL_RESETN Pin=M2-20
+Added Pin To Net: NetName=MODEM_CTRL_PWRKEY Pin=Q3-3
+Added Pin To Net: NetName=NetD1_1 Pin=R25-1
+Added Pin To Net: NetName=MODEM_LED_NETSTAT Pin=R25-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R26-1
+Added Pin To Net: NetName=MCU_MODEM_RESETN_3V3 Pin=R26-2
+Added Pin To Net: NetName=NetD2_1 Pin=R27-1
+Added Pin To Net: NetName=MODEM_LED_NETMODE Pin=R27-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R28-1
+Added Pin To Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=R28-2
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=R29-2
+Added Pin To Net: NetName=MODEM_UART0_TX Pin=U6-3
+Added Pin To Net: NetName=MODEM_UART0_RX Pin=U6-5
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC43_2
+Change Net Name : Old Net Name=NetC41_1 New Net Name=NetC39_1
+Change Net Name : Old Net Name=NetC41_2 New Net Name=NetC39_2
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC46_1
+Change Net Name : Old Net Name=NetC49_1 New Net Name=NetC47_1
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=NetC45_1 Pin=R34-1
+Added Net: Name=NetC45_1
+Added Pin To Net: NetName=NetJ12_C7 Pin=J12-C7
+Added Pin To Net: NetName=NetJ12_C7 Pin=R35-1
+Added Net: Name=NetJ12_C7
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=R31-1
+Added Pin To Net: NetName=NetR29_1 Pin=U6-10
+Added Net: Name=NetR29_1
+Add Differential Pair: Number of nets in differential pair NetM1_13 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetM1_14 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR14_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR15_2 is 1 instead of 2
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C40 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C41 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C42 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C43 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C45 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C46 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C47 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C48 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C49 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C50 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C51 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C52 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C57 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C58 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C59 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component D1 LED_1206
+Added Member To Class: ClassName=MODEM_PT1 Member=Component D2 LED_1206
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J11 ERP_148-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component Q2 ERP_105-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component Q3 ERP_105-1
+Added Member To Class: ClassName=MCU3 Member=Component R16 ERP_101-1
+Added Member To Class: ClassName=MCU3 Member=Component R17 ERP_101-1
+Added Member To Class: ClassName=CAN Member=Component R19 ERP_101-1
+Added Member To Class: ClassName=CAN Member=Component R21 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R23 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R24 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R25 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R32 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R33 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component TP1 TP_1MM
+Added Member To Class: ClassName=MODEM_PT1 Member=Component U6 TXS0108EPW
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC39_1
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC43_2
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_5
+Added Rule: Name=Schematic Width Constraint_7
