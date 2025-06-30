@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BHWKMZTW
 
 [Document3]
-DocumentPath=MCU1.SchDoc
+DocumentPath=MCU1 RP2350B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
